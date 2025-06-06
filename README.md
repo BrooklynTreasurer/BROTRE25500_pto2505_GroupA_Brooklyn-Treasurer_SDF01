@@ -74,7 +74,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 🚀 Fun Fact
 
-💡 I love learning new things and can't wait to build my first website!
+💡 I love the concept behind programming and the multiple languages that consist with it for example C++ is used to create video games,html for websites and so much more...
 
 ---
 
