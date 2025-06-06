@@ -32,7 +32,7 @@
 
 ## 🏆 Soft Skills
 
-- 🤝 Teamwork & Collaboration
+- 🤝 Teamwork & co-ordination
 - 📢 Communication Skills
 - 🎯 Problem-Solving,Creative mindset
 - 🚀 Adaptability and High dedication
@@ -58,7 +58,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 📚 Learning Goals
 
-- 🚀 Get comfortable using Git and GitHub
+- 🚀 Try to remember github commands aswell as VS code keybinds
 - 🎨 Learn HTML, CSS, and JavaScript
 - 💡 Build real-world projects and collaborate with others
 
