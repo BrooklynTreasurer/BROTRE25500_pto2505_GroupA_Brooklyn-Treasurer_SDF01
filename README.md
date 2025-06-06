@@ -2,13 +2,13 @@
 
 # 👋 Hi, I'm Brooklyn Treasurer
 
-🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
+🌱 Beginner Software Developer | 🚀 Im Eager to learn,build and improve
 
 ---
 
 ## 🎯 About Me
 
-- 💡 I'm currently learning **GitHub and version control** before diving into coding.g
+- 💡 I'm currently studying at code space,learning about **Github and project control**
 - 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
 - 🤖 I love problem-solving and working on creative projects.
 - 🔥 Looking forward to building my first real-world application.
@@ -34,8 +34,8 @@
 
 - 🤝 Teamwork & Collaboration
 - 📢 Communication Skills
-- 🎯 Problem-Solving
-- 🚀 Adaptability
+- 🎯 Problem-Solving,Creative mindset
+- 🚀 Adaptability and High dedication
 
 ---
 
@@ -66,7 +66,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/BrooklynTreasurer)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/BrooklynTreasurergit)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
 📧 Email: [youremail@example.com](mailto:@example.com)
 
