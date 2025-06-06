@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Brooklyn Treasurer
 
-🌱 Beginner Software Developer | 🚀 Im Eager to learn,build and improve
+🌱 a passionate beginner in software development, excited to learn, build, and grow in the tech world. | 🚀 I'm currently exploring the fundamentals and sharpening my skills one project at a time.
 
 ---
 
